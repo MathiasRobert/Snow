@@ -7,5 +7,6 @@
     <string name="button_send">Recherche</string>
     <string name="example_string">ex : Chamonix ...</string>
     <string name="title_activity_station">Station</string>
+    <string name="new_search" >Nouvelle Recherche</string>
 
 </resources>
